@@ -1,0 +1,101 @@
+PetID,PetType,Breed,AgeMonths,Color,Size,WeightKg,Vaccinated,HealthCondition,AdoptionFee,AdoptionLikelihood,AdoptionStatus,DaysInShelter
+1,Bird,Parakeet,131,Orange,Large,5.03977,1,0,140.00,0,0,0
+2,Rabbit,Rabbit,73,White,Large,16.08673,0,0,235.00,0,0,58
+3,Dog,"Golden Retriever",136,Orange,Medium,2.07629,0,0,385.00,0,0,90
+4,Bird,Parakeet,97,White,Small,3.33942,0,0,217.00,1,0,79
+5,Rabbit,Rabbit,123,Gray,LaAgeMonthsrge,20.49810,0,0,14.00,1,0,24
+6,Dog,Labrador,70,Brown,Large,20.98626,0,0,301.00,1,0,86
+7,Bird,Parakeet,169,Brown,Small,10.90261,1,0,440.00,1,0,55
+8,Cat,Siamese,13,Orange,Large,7.25268,1,0,137.00,0,1,21
+9,Bird,Parakeet,49,Brown,Medium,24.59760,1,1,405.00,0,0,37
+10,Bird,Parakeet,60,Gray,Large,7.29599,0,0,231.00,1,0,26
+11,Bird,Parakeet,130,Orange,Large,16.71879,0,0,88.00,0,0,16
+12,Rabbit,Rabbit,5,White,Small,29.07806,1,0,462.00,0,1,5
+13,Dog,"Golden Retriever",172,Brown,Large,5.28772,1,0,76.00,1,0,75
+14,Cat,Siamese,27,Black,Large,28.28541,1,0,135.00,0,0,62
+15,Cat,Persian,160,Brown,Medium,6.30390,1,0,404.00,0,1,83
+16,Rabbit,Rabbit,149,White,Small,17.45585,1,0,468.00,1,0,32
+17,Cat,Persian,8,Orange,Small,11.93322,1,1,405.00,1,0,11
+18,Cat,Persian,50,White,Medium,28.98293,1,0,109.00,0,1,59
+19,Rabbit,Rabbit,67,Black,Large,8.93272,1,1,352.00,1,0,63
+20,Dog,Labrador,44,Gray,Small,12.59008,0,1,300.00,0,0,38
+21,Rabbit,Rabbit,125,Brown,Small,29.50294,1,0,90.00,0,0,1
+22,Cat,Persian,58,Orange,Large,16.55764,0,0,423.00,1,0,91
+23,Dog,Labrador,3,Gray,Large,15.57627,1,0,369.00,1,1,52
+24,Dog,"Golden Retriever",86,White,Small,8.47558,1,0,405.00,0,0,87
+25,Bird,Parakeet,70,Orange,Large,21.33954,1,0,413.00,0,0,82
+26,Bird,Parakeet,130,Gray,Small,1.41682,1,0,189.00,0,0,49
+27,Cat,Persian,172,Orange,Large,2.43587,1,0,72.00,0,0,99
+28,Rabbit,Rabbit,2,Black,Large,18.38140,1,1,172.00,0,0,47
+29,Rabbit,Rabbit,102,Black,Medium,10.90856,0,0,34.00,0,0,40
+30,Rabbit,Rabbit,35,Brown,Large,28.64617,0,1,209.00,0,0,60
+31,Bird,Parakeet,98,Brown,Medium,27.19253,1,0,297.00,0,1,80
+32,Cat,Persian,30,Black,Large,21.69748,1,1,132.00,0,0,20
+33,Bird,Parakeet,116,Orange,Small,24.72622,1,0,282.00,1,0,60
+34,Cat,Siamese,8,Black,Small,20.35262,1,0,197.00,0,1,40
+35,Rabbit,Rabbit,150,Brown,Large,4.64188,1,0,445.00,0,0,22
+36,Bird,Parakeet,44,Black,Large,23.20076,0,0,31.00,1,0,91
+37,Rabbit,Rabbit,36,Black,Small,7.09557,1,0,135.00,1,0,89
+38,Rabbit,Rabbit,77,Orange,Large,10.37984,0,0,247.00,0,0,74
+39,Dog,"Golden Retriever",31,Gray,Medium,24.75779,1,0,358.00,0,1,4
+40,Dog,"Golden Retriever",47,Brown,Medium,16.55924,0,0,340.00,1,0,99
+41,Cat,Persian,43,Black,Large,19.01934,1,0,436.00,0,1,82
+42,Cat,Persian,29,Brown,Medium,21.55661,0,1,62.00,1,0,14
+43,Rabbit,Rabbit,33,Gray,Medium,17.50387,0,0,189.00,1,1,23
+44,Rabbit,Rabbit,157,White,Large,18.52965,0,1,468.00,0,0,75
+45,Bird,Parakeet,143,Brown,Medium,25.44481,1,1,39.00,0,0,7
+46,Dog,Labrador,104,Black,Large,29.30317,1,1,156.00,1,1,10
+47,Bird,Parakeet,38,Orange,Medium,3.43659,1,0,213.00,0,1,31
+48,Dog,"Golden Retriever",144,Black,Small,28.82593,0,0,73.00,1,0,26
+49,Bird,Parakeet,114,White,Large,3.08176,0,0,163.00,1,0,36
+50,Cat,Siamese,129,Orange,Small,12.93161,1,0,177.00,1,0,4
+51,Dog,"Golden Retriever",171,Gray,Medium,8.83161,1,0,412.00,0,1,13
+52,Bird,Parakeet,167,Brown,Small,18.58690,0,1,163.00,0,0,55
+53,Rabbit,Rabbit,118,Black,Medium,7.01084,1,0,189.00,0,0,33
+54,Dog,"Golden Retriever",29,Gray,Medium,23.39755,1,1,394.00,0,1,0
+55,Cat,Persian,90,Gray,Large,15.51356,1,0,467.00,1,1,5
+56,Bird,Parakeet,24,Gray,Large,27.05514,0,0,338.00,0,1,22
+57,Rabbit,Rabbit,82,Orange,Small,17.07088,1,0,343.00,0,1,96
+58,Dog,Labrador,18,Orange,Medium,7.13684,1,0,383.00,0,0,17
+59,Cat,Siamese,112,Black,Large,10.11004,0,0,282.00,0,0,94
+60,Rabbit,Rabbit,142,Orange,Large,23.99199,1,0,103.00,0,0,23
+61,Bird,Parakeet,118,Brown,Medium,6.10981,0,0,475.00,0,1,30
+62,Cat,Persian,159,Black,Medium,5.93232,1,0,246.00,0,1,84
+63,Rabbit,Rabbit,47,Brown,Small,7.22694,0,0,451.00,0,1,31
+64,Dog,Labrador,163,Gray,Large,10.77101,1,1,71.00,1,0,2
+65,Rabbit,Rabbit,105,White,Medium,5.21288,1,1,29.00,1,0,20
+66,Cat,Persian,154,Gray,Medium,4.36687,1,1,412.00,0,0,92
+67,Bird,Parakeet,30,Brown,Medium,27.48685,1,0,246.00,1,0,99
+68,Dog,"Golden Retriever",27,Black,Small,17.11930,0,1,327.00,0,0,22
+69,Rabbit,Rabbit,149,Gray,Small,13.73885,1,0,380.00,1,0,11
+70,Rabbit,Rabbit,41,Gray,Small,23.13758,0,1,149.00,0,0,92
+71,Bird,Parakeet,96,White,Medium,25.23284,0,0,141.00,0,0,25
+72,Rabbit,Rabbit,99,Orange,Medium,11.38337,0,0,295.00,0,1,52
+73,Dog,"Golden Retriever",49,Orange,Large,14.27968,0,0,421.00,1,0,83
+74,Bird,Parakeet,109,Brown,Medium,1.04207,0,0,472.00,1,0,62
+75,Cat,Persian,50,Black,Small,2.44732,1,0,193.00,1,1,60
+76,Cat,Persian,92,Orange,Medium,12.71979,1,1,491.00,1,0,16
+77,Rabbit,Rabbit,87,Black,Medium,27.38048,1,0,422.00,0,1,98
+78,Bird,Parakeet,68,Yellow,Large,23.52073,0,1,266.00,1,0,44
+79,Dog,"Golden Retriever",131,Brown,Large,24.89424,1,0,221.00,0,1,28
+80,Rabbit,Rabbit,120,Gray,Medium,9.93628,0,0,313.00,0,1,7
+81,Dog,Labrador,122,Yellow,Medium,28.24211,1,0,453.00,0,1,53
+82,Bird,Parakeet,45,White,Small,9.49894,0,1,362.00,0,1,42
+83,Cat,Persian,162,Gray,Medium,11.13473,1,1,423.00,1,0,52
+84,Rabbit,Rabbit,117,Orange,Medium,15.19392,1,0,486.00,0,0,33
+85,Dog,"Golden Retriever",148,Brown,Small,26.64421,0,0,263.00,0,0,11
+86,Rabbit,Rabbit,73,Brown,Large,7.06550,1,0,364.00,1,1,58
+87,Bird,Parakeet,132,Green,Medium,2.70606,0,1,49.00,1,1,55
+88,Cat,Persian,116,Orange,Large,13.41679,0,0,103.00,0,1,1
+89,Rabbit,Rabbit,163,Gray,Large,11.49760,1,0,350.00,1,0,40
+90,Dog,"Golden Retriever",134,White,Medium,24.80892,1,1,478.00,1,0,0
+91,Bird,Parakeet,149,Gray,Medium,7.74728,1,0,389.00,0,0,78
+92,Dog,"Golden Retriever",131,Black,Large,6.25333,1,1,374.00,1,1,93
+93,Rabbit,Rabbit,128,White,Medium,23.73168,0,0,200.00,0,1,30
+94,Bird,Parakeet,75,Yellow,Small,2.36652,0,0,397.00,1,1,70
+95,Cat,Persian,138,White,Large,13.58569,1,1,101.00,0,1,62
+96,Rabbit,Rabbit,145,Orange,Small,25.49396,0,1,480.00,1,0,0
+97,Dog,"Golden Retriever",129,Yellow,Large,23.46991,1,0,305.00,0,0,13
+98,Bird,Parakeet,99,Red,Medium,11.17122,0,1,276.00,1,1,67
+99,Cat,Siamese,142,Gray,Large,23.05691,0,0,193.00,0,1,96
+100,Rabbit,Rabbit,69,Gray,Small,10.30710,1,1,314.00,0,1,78
